@@ -19,6 +19,7 @@ builder_map = [
     "preslist",
     "reimb",
     "figure",
+    "annual-appraisal"
 ]
 
 xls_check = ("B17", "B20", "B36")
